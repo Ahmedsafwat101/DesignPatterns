@@ -20,7 +20,9 @@ Reusing design patterns help prevent subtle issues that cause major problems, an
     
 # Creational patterns
 <p>Factory</p> 
-   ![alt text](https://github.com/Ahmedsafwat101/DesignPatterns/blob/main/Factory%20Pattern%20Sample/UML.jpg)
+<img src='https://github.com/Ahmedsafwat101/DesignPatterns/blob/main/Factory%20Pattern%20Sample/UML.jpg' title='UML' width='' alt='UML' />
+
+
 
     
 
