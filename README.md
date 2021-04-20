@@ -19,7 +19,7 @@ Reusing design patterns help prevent subtle issues that cause major problems, an
     <p> These patterns are concerned with algorithms and the assignment of responsibilities between objects.</p>
     
 # Creational patterns
-<p>Factory</p> 
+<p>Factory UML Sample</p> 
 <img src='https://github.com/Ahmedsafwat101/DesignPatterns/blob/main/Factory%20Pattern%20Sample/UML.jpg' title='UML' width='' alt='UML' />
 
 
